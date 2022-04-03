@@ -2,5 +2,6 @@ winget install Microsoft.VisualStudioCode
 winget install Microsoft.VisualStudio.2022.Enterprise
 winget install Microsoft.Powershell
 winget install royalts ## Get License key from Spark
+winget install Git.Git ## Git for Windows install
 ## Install Sophos SSL VPN application to get access to hosting VPN
 ## Download Todoist - the winget package seems to be the legacy one
